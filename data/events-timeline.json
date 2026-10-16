@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2025-01-25",
+    "product": "PolyBuzz",
+    "event": "Cloud Whale renames its app from 'Poly.AI - Create AI Chat Bot' to PolyBuzz.",
+    "confidence": "primary (company press release)",
+    "source": "https://www.prweb.com/releases/polyai-rebrands-to-polybuzz-becoming-the-best-ai-chat--ai-roleplay-platform-302358806.html"
+  },
+  {
+    "date": "2026-07-08",
+    "product": "Chai",
+    "event": "Chai removed from the Apple App Store in certain regions, including the US; founder confirmed on r/ChaiApp.",
+    "confidence": "secondary (Eliza Report, citing founder posts and Internet Archive captures)",
+    "source": "https://elizareport.com/changelog/2026-07-08-chai-app-store-removal/"
+  },
+  {
+    "date": "2026-07-30",
+    "product": "Chai",
+    "event": "Chai available again on the Apple App Store.",
+    "confidence": "secondary (Eliza Report)",
+    "source": "https://elizareport.com/changelog/2026-07-08-chai-app-store-removal/"
+  },
+  {
+    "date": "2026-10-01",
+    "product": "Kindroid",
+    "event": "Unlimited free use replaced by a one-time new-account preview; accounts become read-only after the preview without a trial or subscription.",
+    "confidence": "secondary for the date (CompanionHunt); mechanism confirmed in Kindroid Help Center",
+    "source": "https://kindroid.ai/docs/article/subscriptions/ ; https://companionhunt.com/news/kindroid-free-tier/"
+  },
+  {
+    "date": "2026-10-12",
+    "product": "Character.AI",
+    "event": "Character.ai announces a voluntary Chapter 11 process to facilitate a court-supervised sale; platform stays up; if no actionable bid, the platform will be wound down.",
+    "confidence": "primary (company blog)",
+    "source": "https://blog.character.ai/an-update-on-character-ai/"
+  },
+  {
+    "date": "2026-10-13",
+    "product": "Character.AI",
+    "event": "TechCrunch reports the filing, assets and liabilities of $50M-$100M, and an agreement to sell some assets to Disney for $20M plus a non-exclusive perpetual technology license.",
+    "confidence": "secondary (news report)",
+    "source": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+  },
+  {
+    "date": "2026-10-15",
+    "product": "PolyBuzz",
+    "event": "PolyBuzz iPhone app no longer found on the App Store (US page Not Found; Apple lookup API returns no result). Android and web still available. No reason given.",
+    "confidence": "secondary (CompanionHunt) + own check of Apple lookup API on 2026-10-15",
+    "source": "https://companionhunt.com/news/polybuzz-app-store/ ; https://itunes.apple.com/lookup?id=6449190344&country=us"
+  }
+]

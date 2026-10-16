@@ -1,0 +1,59 @@
+{
+  "title": "Character.AI Alternatives After the 2026 Chapter 11 Filing: A Dated Comparison",
+  "upload_type": "dataset",
+  "description": "<p>A dated, sourced comparison of Character.AI and 11 other AI character chat and companion products after Character.AI's October 2026 Chapter 11 filing, covering memory mechanism, memory controls, free tier, paid price, age-check method, platform and app-store status, content policy and whether scenarios, story arcs and worlds can be composed with a character. Every row cites public URLs accessed on 2026-10-15; unknown values are marked 'not stated'. No ranking and no hands-on testing in v1.0.</p><p>Includes an events timeline (Character.AI Chapter 11 announcement, PolyBuzz iPhone app no longer on the App Store on 2026-10-15, Chai's July 2026 App Store absence, Kindroid free-tier change) and a FAQ, including 'Is it PolyBuzz or Pollybuzz?'.</p><p>Disclosure: the author is the founder of chatbrat.ai, which appears as one row described with the same rules as the others.</p>",
+  "creators": [
+    {
+      "name": "Williams, Garret E.",
+      "affiliation": "chatbrat.ai",
+      "orcid": "0009-0008-9464-6561"
+    }
+  ],
+  "keywords": [
+    "Character.AI alternatives",
+    "Character.AI bankruptcy",
+    "Chapter 11",
+    "AI companion",
+    "AI roleplay",
+    "AI character chat",
+    "PolyBuzz",
+    "Chai",
+    "long-term memory",
+    "memory controls",
+    "age assurance",
+    "app store",
+    "comparison dataset"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/garretewilliams/character-ai-alternatives-2026",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://chatbrat.ai/alternative",
+      "relation": "isReferencedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://chatbrat.ai/alternative/character-ai",
+      "relation": "isReferencedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://chatbrat.ai/education/how-chatbrat-memory-works",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.23195702",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Snapshot dated 2026-10-15. Prices are US listings and change frequently."
+}
