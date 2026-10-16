@@ -101,6 +101,8 @@ Each cell was taken from a public page fetched on October 15, 2026 (product help
 
 ## How to cite
 
-Garret E. Williams (2026). *Character.AI Alternatives After the 2026 Chapter 11 Filing: A Dated Comparison* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Garret E. Williams (2026). *Character.AI Alternatives After the 2026 Chapter 11 Filing: A Dated Comparison* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23411516
+
+Concept DOI (all versions, resolves to the latest): [10.5281/zenodo.23411516](https://doi.org/10.5281/zenodo.23411516) · v1.0.0 version DOI: [10.5281/zenodo.23411517](https://doi.org/10.5281/zenodo.23411517)
 
 See [`CITATION.cff`](CITATION.cff). Corrections are welcome as GitHub issues; please include a source URL.

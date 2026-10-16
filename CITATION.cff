@@ -9,10 +9,17 @@ authors:
     orcid: "https://orcid.org/0009-0008-9464-6561"
 date-released: "2026-10-15"
 version: "1.0.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23411516"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.23411517"
+    description: "Version DOI for v1.0.0"
 license: CC-BY-4.0
 repository-code: "https://github.com/garretewilliams/character-ai-alternatives-2026"
 url: "https://github.com/garretewilliams/character-ai-alternatives-2026"
-# doi: "10.5281/zenodo.XXXXXXX"   # add the concept DOI after the first Zenodo release
+doi: "10.5281/zenodo.23411516"
 abstract: >-
   A dated, sourced comparison of Character.AI and 11 other AI character chat and companion products after Character.AI's October 2026 Chapter 11 filing, covering memory mechanism, memory controls, free tier, paid price, age-check method, platform and app-store status, content policy and whether scenarios, story arcs and worlds can be composed with a character. Every row cites public URLs accessed on 2026-10-15; unknown values are marked 'not stated'. No ranking and no hands-on testing in v1.0.
 keywords:
